@@ -1,6 +1,6 @@
 ﻿Param (
-    $newPrintServer = "crb11",
-	$oldPrintServers = @("crb06")
+    $newPrintServer = "b11",
+	$oldPrintServers = @("b06")
 )
 
   
